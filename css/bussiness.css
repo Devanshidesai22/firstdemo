@@ -258,7 +258,9 @@ i.fa.fa-quote-left {
     font-size: 13px;
 }
 .ceo{
-    padding:4px ;
+    padding:4px;
+    color: #f2c21a;
+    font-size: 12px;
 }
 .man{
     position: relative;
